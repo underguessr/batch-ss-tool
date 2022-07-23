@@ -1,5 +1,5 @@
 @echo off
-title sstool by zaxteray#3230
+title sstool by jinx#6828
 ::If you're going to use the code make sure to give me credits :]
 cls
 
